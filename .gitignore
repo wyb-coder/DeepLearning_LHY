@@ -1,0 +1,145 @@
+# =========================
+# 基础：操作系统/编辑器临时文件
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.swp
+*.swo
+*.tmp
+*.log
+*.bak
+
+# VSCode 配置缓存（保留 settings.json 可选）
+.vscode/*
+!.vscode/settings.json
+
+.idea/
+
+# =========================
+# 前端/后端依赖目录
+# =========================
+node_modules/
+bower_components/
+jspm_packages/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+
+# =========================
+# 构建/打包产物
+# =========================
+dist/
+build/
+out/
+coverage/
+*.egg-info/
+*.so
+*.dll
+*.exe
+
+# =========================
+# 大型二进制/媒体文件
+# =========================
+# 图片
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+
+# 音频
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+
+# 视频
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.mkv
+*.webm
+
+# 压缩/数据包
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# =========================
+# 数据文件（可选忽略）
+# =========================
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.xml
+
+# =========================
+# 环境/配置
+# =========================
+.env
+*.secret
+*.key
+*.pem
+
+
+!All Photo/**
+
+**/data/
+
+**/Data/
+
+**/checkpoints/
+
+**/facebook/
+
+*model*
+
+**/model/
+
+**/bert-base-uncased/
+
+*.h5
+
+*model*/
+
+**/site-packages/
+
+*.csv
+
+*.bin
+
+*.dll
+
+*.pt
+
+*.ot
+
+*.ckpt
+
+*.h5
+
+*.log
+
+*.lib
+
+*.gz
+
+*.zip
+*.tar
+*.rar
+*.7z
