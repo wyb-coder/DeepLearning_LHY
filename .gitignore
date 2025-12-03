@@ -148,7 +148,7 @@ coverage/
 
 *.agent/
 
-.agent
+.agent/
 
 .idea   
 
