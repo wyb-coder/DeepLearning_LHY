@@ -143,3 +143,7 @@ coverage/
 *.tar
 *.rar
 *.7z
+
+*.gitignore
+
+*.agent/
