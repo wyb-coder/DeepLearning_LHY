@@ -147,3 +147,9 @@ coverage/
 *.gitignore
 
 *.agent/
+
+.agent
+
+.idea   
+
+.vscode     
